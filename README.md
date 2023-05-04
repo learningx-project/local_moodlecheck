@@ -8,6 +8,13 @@ Installation:
 
 Install the source into the local/moodlecheck directory in your moodle
 
+
+To install it using git, type this command in the root of your Moodle install:
+
+    git clone https://github.com/learningx-project/local_moodlecheck.git local/moodlecheck
+
+Then add /local/moodlecheck to your git ignore.
+
 Log in as admin and select:
 
 Settings
