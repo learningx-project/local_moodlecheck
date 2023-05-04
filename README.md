@@ -15,12 +15,11 @@ To install it using git, type this command in the root of your Moodle install:
 
 Then add /local/moodlecheck to your git ignore.
 
-Log in as admin and select:
 
-Settings
-  Site administration >
-    Development >
-      Moodle PHPdoc check
+After you have installed this local plugin, you
+should Log in as admin and select:
+
+> Site administration -> Development -> Moodle PHPdoc check
 
 Enter paths to check and select rules to use.
 
